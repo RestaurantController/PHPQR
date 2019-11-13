@@ -2,7 +2,7 @@
 Encode a text easily made with Google's API
 
 This plugin for PHP that is easy to use makes creating QR codes easier. It sends a HTTP request to 'googleapis.com' to get a QR code.
-
+<b>Note: This plugin hasn't been set up yet.</b>
 
 # Getting Started
 
