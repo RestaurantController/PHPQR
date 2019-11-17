@@ -24,4 +24,4 @@ It returns "imgUrl" as the QR code URL and "htmlCode" as the html code for getti
 <br>
 Size example: 200x200
 <br>
-  Size data: <width>x<height>
+  Size data: widthxheight
