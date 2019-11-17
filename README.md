@@ -21,3 +21,5 @@ And then, call generateQRWithArray($size) function to get the QR data as an arra
 <b>What does it return in an array?</b>
 <br>
 It returns "imgUrl" as the QR code URL and "htmlCode" as the html code for getting the code in your HTML page.
+<br>
+Size example: 200x200
