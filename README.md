@@ -17,7 +17,7 @@ For more, see the docs in the site.
 <b>Generating a QR Code<b>
   To generate a QR code, create an PHPQR instance. Then set the <b>raw</b> variable to your text.
   
-And then, call generateQRWithArray() function to get the QR data as an array.
+And then, call generateQRWithArray($size) function to get the QR data as an array.
 <b>What does it return in an array?</b>
 <br>
 It returns "imgUrl" as the QR code URL and "htmlCode" as the html code for getting the code in your HTML page.
