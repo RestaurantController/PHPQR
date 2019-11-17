@@ -8,7 +8,8 @@ This plugin for PHP that is easy to use makes creating QR codes easier. It sends
 
 Download the lastest version and unpack it.
 
-Write this code to include the library:
-require 'path/to/phpqr/class.php';
+Write this code to include the library:<br>
+<b>require 'path/to/phpqr/class.php';</b>
+<br>
 And then you can use the library in the PHP code.
 For more, see the docs in the site.
