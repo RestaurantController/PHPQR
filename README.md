@@ -13,6 +13,7 @@ Write this code to include the library:<br>
 <br>
 And then you can use the library in the PHP code.
 For more, see the docs in the site.
+<b>Docs are coming soon</b>
 
 <b>Generating a QR Code<b>
   To generate a QR code, create an PHPQR instance.
