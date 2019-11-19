@@ -14,8 +14,7 @@ Write this code to include the library:<br>
 And then you can use the library in the PHP code.
 <br>
 <b>Install with Composer</b><br>
-<b>composer require restaurantcontroller/phpqr 1.1<b><br>
-  Replace 1.1 with the version
+<b>composer require restaurantcontroller/phpqr dev-master<b><br>
 <br>
   Then, load the class located at vendor/restaurantcontroller/phpqr/class.php.
 <br>
