@@ -1,5 +1,4 @@
 <?php
-<?php
 class PHPQR {
     public function generateQRWithArray($size, $raw){
         if($raw == "" || $size == ""){
