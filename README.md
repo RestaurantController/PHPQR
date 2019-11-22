@@ -33,3 +33,8 @@ It returns "imgUrl" as the QR code URL and "htmlCode" as the html code for getti
 Size example: 200x200
 <br>
   Size data: widthxheight
+
+
+<br>
+# Report an Issue
+Please if you have a problem post in in the Issues. We will help you.
