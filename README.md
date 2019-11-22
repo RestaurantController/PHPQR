@@ -16,9 +16,9 @@ And then you can use the library in the PHP code.
 <b>Install with Composer</b><br>
 <b>composer require restaurantcontroller/phpqr dev-master<b><br>
 <br>
-  Then, call the autoloader in Composer
+  Then, call the class
   <br>
-  <b>require 'path/to/vendor/autoload.php';
+  <b>require 'path/to/vendor/restaurantcontroller/phpqr/class.php';
 <br>
 <b>Docs are coming soon</b>
 
