@@ -36,5 +36,7 @@ Size example: 200x200
 
 
 <br>
-# Report an Issue
+<h1>Report An Issue</h1>
+
+
 Please if you have a problem post in in the Issues. We will help you.
