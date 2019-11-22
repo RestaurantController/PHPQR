@@ -1,10 +1,10 @@
 {
     "name": "restaurantcontroller/phpqr",
     "description": "Generate a QR code easily in PHP",
-    "require": {
-        "php": "^7.2"
-    }
     "autoload": {
         "files": ["class.php"]
+    },
+    "require": {
+        "php": "^7.2"
     }
 }
