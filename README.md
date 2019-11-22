@@ -16,9 +16,10 @@ And then you can use the library in the PHP code.
 <b>Install with Composer</b><br>
 <b>composer require restaurantcontroller/phpqr dev-master<b><br>
 <br>
-  Then, load the class located at vendor/restaurantcontroller/phpqr/class.php.
+  Then, call the autoloader in Composer
+  <br>
+  <b>require 'path/to/vendor/autoload.php';
 <br>
-For more, see the docs in the site.
 <b>Docs are coming soon</b>
 
 <b>Generating a QR Code<b>
