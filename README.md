@@ -38,4 +38,4 @@ Size example: 200x200
 <h1>Report An Issue</h1>
 
 
-Please if you have a problem post in in the Issues. We will help you.
+Please if you have a problem post it in Issues in GitHub. We will help you.
