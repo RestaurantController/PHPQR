@@ -18,10 +18,20 @@
         <a class="nav-link" href="features.html">Features</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="download.html">Downloads(coming soon)</a>
+        <a class="nav-link" href="https://github.com/RestaurantController/PHPQR/releases">Downloads</a>
       </li>
     </ul>
   </div>
 </nav>
+<div class="text-center">
+<h1>Convert Text To QR Code In PHP Easily</h1>
+Do you have an application in PHP and you want to convert a string to a QR code? PHPQR is right for you.
+<br>
+  <b>Sample Code</b>
+  <br>
+  <code><?php<br>include "path/to/phpqr/class.php";<br>$phpqr = new PHPQR();<br>$text = "Hello";<br>$response = $qr->generateQRWithArray("200x200", $text);
+echo "QR Code:<br>";
+echo $response["htmlCode"]</code>
+</div>
 </body>
 </html>
