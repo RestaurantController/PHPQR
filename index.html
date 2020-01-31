@@ -29,8 +29,9 @@ Do you have an application in PHP and you want to convert a string to a QR code?
 <br>
   <b>Sample Code</b>
   <br>
-  <code><?php<br>include "path/to/phpqr/class.php";<br>$phpqr = new PHPQR();<br>$text = "Hello";<br>$response = $qr->generateQRWithArray("200x200", $text);
+  <code><?php<br>include "path/to/phpqr/class.php";<br>$phpqr = new PHPQR();<br>$text = "Hello";<br>$response = $qr->generateQRWithArray("200x200", $text);<br>
 echo "QR Code:<br>";
+<br>
 echo $response["htmlCode"];</code>
 </div>
 </body>
