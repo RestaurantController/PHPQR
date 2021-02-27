@@ -1,7 +1,7 @@
 <?php
 /* Functions.php: PHPQR Functions
 This file is for only integrating PHPQR functions to your project.
-Copyright 2019 Restaurant Controller.
+Copyright 2020 okyanusoz.
 */
 function generateQRWithArray($size = "200x200", $raw, $encoding = "UTF-8"){
     if($raw == "" || $size == ""){
