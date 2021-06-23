@@ -1,8 +1,10 @@
-# DEPRECATED
+# ARCHIVED
 
-PHPQR is deprecated not actively maintained.
+PHPQR is archived and no longer maintained.
 
-Any issues or pull requests are likely to be unseen or ignored.
+Use the Chart API directly. See https://developers.google.com/chart/infographics/docs/qr_codes.
+
+*Or, even better, use a QR code library for PHP*.
 
 If you are still using PHPQR, I recommend you to fork this repo.
 
@@ -25,14 +27,14 @@ And then you can use the library in the PHP code.
 <br>
   Then, call the class
   <br>
-  <b>require 'path/to/vendor/restaurantcontroller/phpqr/class.php';
+  <code>require 'path/to/vendor/restaurantcontroller/phpqr/class.php';</code>
 <br>
 <b>Docs are coming soon</b>
 
 <b>Generating a QR Code<b>
   To generate a QR code, create an PHPQR instance.
   
-And then, call generateQRWithArray($size, $raw) function to get the QR data as an array.The raw variable is your text.
+And then, call `generateQRWithArray($size, $raw)` function to get the QR data as an array.The raw variable is your text.
 <b>What does it return in an array?</b>
 <br>
 It returns "imgUrl" as the QR code URL and "htmlCode" as the html code for getting the code in your HTML page.
