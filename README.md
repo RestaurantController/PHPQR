@@ -1,3 +1,11 @@
+# DEPRECATED
+
+PHPQR is deprecated not actively maintained.
+
+Any issues or pull requests are likely to be unseen or ignored.
+
+If you are still using PHPQR, I recommend you to fork this repo.
+
 # PHPQR
 Encode a text easily made with Google's API
 
